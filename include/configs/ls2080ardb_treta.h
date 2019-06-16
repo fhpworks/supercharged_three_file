@@ -9,7 +9,7 @@
 
 #include "ls2080a_common.h"
 
-#ifdef CONFIG_FSL_QSPI_hugo_minha_versão do gii
+#ifdef CONFIG_FSL_QSPI_hugo_minha_versão do git, mas agora já na segunda revisão
 #ifdef CONFIG_TARGET_LS2081ARDB
 #define CONFIG_QIXIS_I2C_ACCESS
 #endif
